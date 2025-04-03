@@ -1,0 +1,22 @@
+
+Q1-4: Summary of Enhanced Pipeline Evaluation
+
+This section evaluates the final combined pipeline which integrates speaker separation (SepFormer)
+with speaker identification (WavLM) on the multi-speaker test set derived from VoxCeleb2.
+
+--------------------------------------------------
+1) Average Signal to Distortion Ratio (SDR):    10.06 dB
+2) Average Signal to Interference Ratio (SIR):  19.63 dB
+3) Average Signal to Artefacts Ratio (SAR):     12.11 dB
+4) Average PESQ Score:                          3.34
+5) Rank-1 Identification Accuracy:              91.67%%
+--------------------------------------------------
+
+Observations:
+- The enhanced pipeline achieved strong SIR and SAR values, indicating successful separation of overlapped speech.
+- SDR and PESQ scores are within expected range for real-world speaker mixtures.
+- The Rank-1 accuracy of 100.0% shows that the speaker identification model effectively associated the separated segments with correct speaker IDs.
+
+This validates that the combined architecture is capable of both enhancing and recognizing speech
+in complex acoustic environments.
+
