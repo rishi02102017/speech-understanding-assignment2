@@ -1,5 +1,5 @@
 
-# 📄 Speech Understanding – Assignment 2 (CSL7770)
+# Speech Understanding – Assignment 2 (CSL7770)
 
 ## 🔍 Overview
 
@@ -15,7 +15,7 @@ Professor Richa Singh
 
 ---
 
-## 🧠 Question 1: Speech Enhancement (Q1-1 to Q1-4)
+##  Question 1: Speech Enhancement (Q1-1 to Q1-4)
 
 | Part | Task |
 |------|------|
@@ -33,7 +33,7 @@ Metrics used:
 
 ---
 
-## 🔤 Question 2: MFCC-Based Language Classification
+##  Question 2: MFCC-Based Language Classification
 
 - Dataset: Kaggle – Audio Dataset of 10 Indian Languages
 - Selected Languages: **Hindi, Bengali, Tamil**
