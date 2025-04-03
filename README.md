@@ -48,35 +48,35 @@ Metrics used:
 
 ## 🗂️ Folder Structure
 
-M24CSA013 PA2/
-├── Question 1/
-│   ├── speaker_verification_final_full.py
-│   ├── speech_enhancement_final.py
-│   ├── enhanced_pipeline_final.py
-│   ├── generate_plots.py
-│   └── results/
-│       ├── Speaker_verification/
-│       │   ├── finetuned_results.csv
-│       │   └── pretrained_results.csv
-│       ├── Speaker_separation/
-│       │   ├── evaluation_results.csv
-│       │   ├── identification_mix_finetuned.csv
-│       │   ├── identification_mix_pretrained.csv
-│       │   └── plots/
-│       │       ├── separation_metric_boxplot.png
-│       │       ├── separation_kde_metrics.png
-│       │       └── separation_metric_correlation.png
-│       └── Enhanced_pipeline/
-│           ├── enhanced_pipeline_evaluation_results.csv
-│           ├── summary_Q1_4.txt
-│           └── plots/
-│               ├── Q1_4_boxplot_metrics.png
-│               ├── Q1_4_corr_heatmap.png
-│               └── Q1_4_kde_metrics.png
-├── Question 2/
-│   └── m24csa013-q2.ipynb
-├── SUA2_Report.pdf
-└── README.md
+M24CSA013 PA2/  
+├── Question 1/  
+│   ├── speaker_verification_final_full.py  
+│   ├── speech_enhancement_final.py  
+│   ├── enhanced_pipeline_final.py  
+│   ├── generate_plots.py  
+│   └── results/  
+│       ├── Speaker_verification/  
+│       │   ├── finetuned_results.csv  
+│       │   └── pretrained_results.csv  
+│       ├── Speaker_separation/  
+│       │   ├── evaluation_results.csv  
+│       │   ├── identification_mix_finetuned.csv  
+│       │   ├── identification_mix_pretrained.csv  
+│       │   └── plots/  
+│       │       ├── separation_metric_boxplot.png  
+│       │       ├── separation_kde_metrics.png  
+│       │       └── separation_metric_correlation.png  
+│       └── Enhanced_pipeline/  
+│           ├── enhanced_pipeline_evaluation_results.csv  
+│           ├── summary_Q1_4.txt  
+│           └── plots/  
+│               ├── Q1_4_boxplot_metrics.png  
+│               ├── Q1_4_corr_heatmap.png  
+│               └── Q1_4_kde_metrics.png  
+├── Question 2/  
+│   └── m24csa013-q2.ipynb  
+├── SUA2_Report.pdf  
+└── README.md  
 
 ---
 
